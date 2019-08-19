@@ -1,0 +1,289 @@
+HEADER    cheap fortran WWW generation with full connectivity
+ATOM      1  O   MOL H   0       1.484   0.126   3.047  1.00  0.00           O0 
+ATOM      2  O   MOL H   0       3.280   1.113  -0.056  1.00  0.00           O0 
+ATOM      3  O   MOL H   0       0.502   3.103   1.462  1.00  0.00           O0 
+ATOM      4  O   MOL H   0       0.020   1.315  -1.092  1.00  0.00           O0 
+ATOM      5  O   MOL H   0      -1.526  -0.382   3.452  1.00  0.00           O0 
+ATOM      6  O   MOL H   0       4.941   5.152  -0.578  1.00  0.00           O0 
+ATOM      7 Pd   MOL H   0       0.296   2.876   3.058  1.00  0.00          Pd0 
+ATOM      8 Pd   MOL H   0       3.087  -0.486   0.104  1.00  0.00          Pd0 
+ATOM      9 Pd   MOL H   0       3.053  -0.040   3.275  1.00  0.00          Pd0 
+ATOM     10 Pd   MOL H   0       0.255   2.499  -0.027  1.00  0.00          Pd0 
+ATOM     11 Pd   MOL H   0       3.353   2.493  -0.889  1.00  0.00          Pd0 
+ATOM     12 Pd   MOL H   0      -0.068  -0.145   2.850  1.00  0.00          Pd0 
+ATOM     13  S   MOL H   0       4.850   2.864  -0.454  1.00  0.00           S0 
+ATOM     14  S   MOL H   0       0.472   4.455   3.361  1.00  0.00           S0 
+ATOM     15  S   MOL H   0       3.093   0.094   4.914  1.00  0.00           S0 
+ATOM     16  S   MOL H   0       3.267  -0.296   1.678  1.00  0.00           S0 
+ATOM     17  S   MOL H   0       1.769   2.722  -0.623  1.00  0.00           S0 
+ATOM     18  S   MOL H   0      -0.332   1.431   2.732  1.00  0.00           S0 
+ATOM     19  O   MOL H   0       7.672  -0.572   3.107  1.00  0.00           O0 
+ATOM     20  O   MOL H   0       9.108   1.583   0.506  1.00  0.00           O0 
+ATOM     21  O   MOL H   0       6.300   2.801   1.182  1.00  0.00           O0 
+ATOM     22  O   MOL H   0       3.621   3.374  -2.214  1.00  0.00           O0 
+ATOM     23  O   MOL H   0       4.529  -0.557   3.491  1.00  0.00           O0 
+ATOM     24  O   MOL H   0       9.310   4.557   0.453  1.00  0.00           O0 
+ATOM     25 Pd   MOL H   0       6.868   2.430   2.627  1.00  0.00          Pd0 
+ATOM     26 Pd   MOL H   0       9.303   0.051   0.077  1.00  0.00          Pd0 
+ATOM     27 Pd   MOL H   0       9.162  -0.024   3.226  1.00  0.00          Pd0 
+ATOM     28 Pd   MOL H   0       5.708   4.011   0.279  1.00  0.00          Pd0 
+ATOM     29 Pd   MOL H   0       9.450   3.060   1.016  1.00  0.00          Pd0 
+ATOM     30 Pd   MOL H   0       6.081  -0.533   3.183  1.00  0.00          Pd0 
+ATOM     31  S   MOL H   0      10.969   2.879   0.449  1.00  0.00           S0 
+ATOM     32  S   MOL H   0       6.600   5.179   0.943  1.00  0.00           S0 
+ATOM     33  S   MOL H   0       9.068  -0.118   4.810  1.00  0.00           S0 
+ATOM     34  S   MOL H   0       9.320  -0.242   1.645  1.00  0.00           S0 
+ATOM     35  S   MOL H   0       8.240   3.132   2.099  1.00  0.00           S0 
+ATOM     36  S   MOL H   0       6.045   1.066   2.881  1.00  0.00           S0 
+ATOM     37  O   MOL H   0       1.757   6.386   3.394  1.00  0.00           O0 
+ATOM     38  O   MOL H   0       2.782   7.371  -0.053  1.00  0.00           O0 
+ATOM     39  O   MOL H   0       0.071   8.953   1.459  1.00  0.00           O0 
+ATOM     40  O   MOL H   0      -0.202  10.080  -1.500  1.00  0.00           O0 
+ATOM     41  O   MOL H   0      -1.372   5.741   3.307  1.00  0.00           O0 
+ATOM     42  O   MOL H   0       2.970  10.328   0.911  1.00  0.00           O0 
+ATOM     43 Pd   MOL H   0       0.249   9.154   3.039  1.00  0.00          Pd0 
+ATOM     44 Pd   MOL H   0       3.984   6.458  -0.571  1.00  0.00          Pd0 
+ATOM     45 Pd   MOL H   0       3.123   7.237   3.505  1.00  0.00          Pd0 
+ATOM     46 Pd   MOL H   0      -0.062   9.359  -0.085  1.00  0.00          Pd0 
+ATOM     47 Pd   MOL H   0       2.618   8.767   0.721  1.00  0.00          Pd0 
+ATOM     48 Pd   MOL H   0       0.193   6.050   3.335  1.00  0.00          Pd0 
+ATOM     49  S   MOL H   0       4.960   7.370   0.276  1.00  0.00           S0 
+ATOM     50  S   MOL H   0       0.697  10.677   2.822  1.00  0.00           S0 
+ATOM     51  S   MOL H   0       3.614   6.458   4.840  1.00  0.00           S0 
+ATOM     52  S   MOL H   0       2.818   8.108   2.177  1.00  0.00           S0 
+ATOM     53  S   MOL H   0       1.509   9.196  -0.339  1.00  0.00           S0 
+ATOM     54  S   MOL H   0      -0.127   7.617   3.269  1.00  0.00           S0 
+ATOM     55  O   MOL H   0       7.720   5.344   2.914  1.00  0.00           O0 
+ATOM     56  O   MOL H   0       8.822   7.634  -0.210  1.00  0.00           O0 
+ATOM     57  O   MOL H   0       6.771   7.576   1.140  1.00  0.00           O0 
+ATOM     58  O   MOL H   0       5.528   9.055  -1.432  1.00  0.00           O0 
+ATOM     59  O   MOL H   0       4.347   8.267   3.566  1.00  0.00           O0 
+ATOM     60  O   MOL H   0       9.190  10.767  -0.475  1.00  0.00           O0 
+ATOM     61 Pd   MOL H   0       5.889   8.565   3.863  1.00  0.00          Pd0 
+ATOM     62 Pd   MOL H   0       9.055   6.081   0.035  1.00  0.00          Pd0 
+ATOM     63 Pd   MOL H   0       9.273   5.735   3.040  1.00  0.00          Pd0 
+ATOM     64 Pd   MOL H   0       6.102   8.450  -0.025  1.00  0.00          Pd0 
+ATOM     65 Pd   MOL H   0       9.014   9.218  -0.114  1.00  0.00          Pd0 
+ATOM     66 Pd   MOL H   0       6.743   6.291   2.096  1.00  0.00          Pd0 
+ATOM     67  S   MOL H   0      10.596   9.057   0.061  1.00  0.00           S0 
+ATOM     68  S   MOL H   0       5.846  10.177   3.708  1.00  0.00           S0 
+ATOM     69  S   MOL H   0       9.171   5.536   4.630  1.00  0.00           S0 
+ATOM     70  S   MOL H   0       9.317   6.387   1.578  1.00  0.00           S0 
+ATOM     71  S   MOL H   0       7.419   9.348  -0.150  1.00  0.00           S0 
+ATOM     72  S   MOL H   0       6.310   7.092   3.412  1.00  0.00           S0 
+ATOM     73  O   MOL H   0       1.814   0.409   9.143  1.00  0.00           O0 
+ATOM     74  O   MOL H   0       4.763   1.313   5.821  1.00  0.00           O0 
+ATOM     75  O   MOL H   0       0.266   2.617   7.628  1.00  0.00           O0 
+ATOM     76  O   MOL H   0       0.437   2.415   4.603  1.00  0.00           O0 
+ATOM     77  O   MOL H   0      -2.130   2.392   9.481  1.00  0.00           O0 
+ATOM     78  O   MOL H   0       2.575   4.570   5.760  1.00  0.00           O0 
+ATOM     79 Pd   MOL H   0      -0.641   2.845   8.934  1.00  0.00          Pd0 
+ATOM     80 Pd   MOL H   0       3.887   0.062   6.315  1.00  0.00          Pd0 
+ATOM     81 Pd   MOL H   0       3.312   0.379   9.716  1.00  0.00          Pd0 
+ATOM     82 Pd   MOL H   0       0.428   1.992   6.161  1.00  0.00          Pd0 
+ATOM     83 Pd   MOL H   0       3.318   3.248   6.258  1.00  0.00          Pd0 
+ATOM     84 Pd   MOL H   0       0.560   0.181  10.117  1.00  0.00          Pd0 
+ATOM     85  S   MOL H   0       4.599   3.520   5.338  1.00  0.00           S0 
+ATOM     86  S   MOL H   0      -0.662   4.480   8.940  1.00  0.00           S0 
+ATOM     87  S   MOL H   0       2.767  -0.709  10.781  1.00  0.00           S0 
+ATOM     88  S   MOL H   0       4.842   0.453   7.591  1.00  0.00           S0 
+ATOM     89  S   MOL H   0       1.977   2.376   6.417  1.00  0.00           S0 
+ATOM     90  S   MOL H   0       0.047   1.631   9.691  1.00  0.00           S0 
+ATOM     91  O   MOL H   0       7.348   0.761   8.886  1.00  0.00           O0 
+ATOM     92  O   MOL H   0       9.377   1.340   6.497  1.00  0.00           O0 
+ATOM     93  O   MOL H   0       4.303   2.772   7.419  1.00  0.00           O0 
+ATOM     94  O   MOL H   0       6.673   2.988   4.128  1.00  0.00           O0 
+ATOM     95  O   MOL H   0       4.758  -0.264   9.850  1.00  0.00           O0 
+ATOM     96  O   MOL H   0       8.492   4.324   6.567  1.00  0.00           O0 
+ATOM     97 Pd   MOL H   0       4.753   3.143   8.902  1.00  0.00          Pd0 
+ATOM     98 Pd   MOL H   0      10.179   0.031   5.953  1.00  0.00          Pd0 
+ATOM     99 Pd   MOL H   0       8.766   1.430   9.439  1.00  0.00          Pd0 
+ATOM    100 Pd   MOL H   0       5.798   2.460   5.344  1.00  0.00          Pd0 
+ATOM    101 Pd   MOL H   0       8.520   2.681   6.785  1.00  0.00          Pd0 
+ATOM    102 Pd   MOL H   0       5.881  -0.009   8.767  1.00  0.00          Pd0 
+ATOM    103  S   MOL H   0      11.640   0.706   6.237  1.00  0.00           S0 
+ATOM    104  S   MOL H   0       5.336   4.637   8.611  1.00  0.00           S0 
+ATOM    105  S   MOL H   0       8.863   0.640  10.861  1.00  0.00           S0 
+ATOM    106  S   MOL H   0       8.791   2.625   8.363  1.00  0.00           S0 
+ATOM    107  S   MOL H   0       7.248   2.116   5.956  1.00  0.00           S0 
+ATOM    108  S   MOL H   0       3.908   1.778   9.137  1.00  0.00           S0 
+ATOM    109  O   MOL H   0       1.253   5.724   9.563  1.00  0.00           O0 
+ATOM    110  O   MOL H   0       2.739   8.055   8.386  1.00  0.00           O0 
+ATOM    111  O   MOL H   0      -0.278   9.352   7.743  1.00  0.00           O0 
+ATOM    112  O   MOL H   0       0.430   9.324   4.631  1.00  0.00           O0 
+ATOM    113  O   MOL H   0      -1.823   6.258   9.734  1.00  0.00           O0 
+ATOM    114  O   MOL H   0       3.320  10.898   6.974  1.00  0.00           O0 
+ATOM    115 Pd   MOL H   0      -0.040   9.318   9.330  1.00  0.00          Pd0 
+ATOM    116 Pd   MOL H   0       3.337   5.863   6.315  1.00  0.00          Pd0 
+ATOM    117 Pd   MOL H   0       2.459   6.649   9.111  1.00  0.00          Pd0 
+ATOM    118 Pd   MOL H   0       0.100   9.094   6.187  1.00  0.00          Pd0 
+ATOM    119 Pd   MOL H   0       2.918   9.463   7.638  1.00  0.00          Pd0 
+ATOM    120 Pd   MOL H   0      -0.300   6.038   9.299  1.00  0.00          Pd0 
+ATOM    121  S   MOL H   0       4.092   9.529   8.754  1.00  0.00           S0 
+ATOM    122  S   MOL H   0       0.307  10.917   9.479  1.00  0.00           S0 
+ATOM    123  S   MOL H   0       2.895   6.999  10.607  1.00  0.00           S0 
+ATOM    124  S   MOL H   0       2.552   5.877   7.704  1.00  0.00           S0 
+ATOM    125  S   MOL H   0       1.643   9.210   6.658  1.00  0.00           S0 
+ATOM    126  S   MOL H   0      -0.069   7.666   9.385  1.00  0.00           S0 
+ATOM    127  O   MOL H   0       7.329   5.893   8.863  1.00  0.00           O0 
+ATOM    128  O   MOL H   0       9.269   7.471   5.933  1.00  0.00           O0 
+ATOM    129  O   MOL H   0       6.298   9.324   7.924  1.00  0.00           O0 
+ATOM    130  O   MOL H   0       6.991   8.491   5.013  1.00  0.00           O0 
+ATOM    131  O   MOL H   0       4.687   6.278   7.069  1.00  0.00           O0 
+ATOM    132  O   MOL H   0      10.192  10.622   5.990  1.00  0.00           O0 
+ATOM    133 Pd   MOL H   0       5.604   9.747   9.324  1.00  0.00          Pd0 
+ATOM    134 Pd   MOL H   0       8.923   5.874   6.187  1.00  0.00          Pd0 
+ATOM    135 Pd   MOL H   0       8.899   5.979   9.249  1.00  0.00          Pd0 
+ATOM    136 Pd   MOL H   0       6.970   8.644   6.614  1.00  0.00          Pd0 
+ATOM    137 Pd   MOL H   0       9.706   9.062   5.953  1.00  0.00          Pd0 
+ATOM    138 Pd   MOL H   0       6.001   5.949   7.926  1.00  0.00          Pd0 
+ATOM    139  S   MOL H   0      11.092   8.676   5.264  1.00  0.00           S0 
+ATOM    140  S   MOL H   0       6.639  10.967   9.449  1.00  0.00           S0 
+ATOM    141  S   MOL H   0       8.679   5.564  10.786  1.00  0.00           S0 
+ATOM    142  S   MOL H   0       9.191   6.208   7.716  1.00  0.00           S0 
+ATOM    143  S   MOL H   0       8.267   9.547   6.498  1.00  0.00           S0 
+ATOM    144  S   MOL H   0       6.562   7.151   7.014  1.00  0.00           S0 
+CONECT    1    9   12
+CONECT    2    8   11
+CONECT    3    7   10
+CONECT    4   10   84
+CONECT    5   12   27
+CONECT    6   28   44
+CONECT    7    3   14   18   76
+CONECT    8    2   16   42   87
+CONECT    9    1   15   16   23
+CONECT   10    3    4   17   31
+CONECT   11    2   13   17   22
+CONECT   12    1    5   18   50
+CONECT   13   11   28
+CONECT   14    7   48
+CONECT   15    9   80
+CONECT   16    8    9
+CONECT   17   10   11
+CONECT   18    7   12
+CONECT   19   27   30
+CONECT   20   26   29
+CONECT   21   25   28
+CONECT   22   11   97
+CONECT   23    9   30
+CONECT   24   29   62
+CONECT   25   21   35   36   94
+CONECT   26   20   34   60  105
+CONECT   27    5   19   33   34
+CONECT   28    6   13   21   32
+CONECT   29   20   24   31   35
+CONECT   30   19   23   36   68
+CONECT   31   10   29
+CONECT   32   28   66
+CONECT   33   27   98
+CONECT   34   26   27
+CONECT   35   25   29
+CONECT   36   25   30
+CONECT   37   45   48
+CONECT   38   44   47
+CONECT   39   43   46
+CONECT   40   46  115
+CONECT   41   48   63
+CONECT   42    8   47
+CONECT   43   39   50   54  112
+CONECT   44    6   38   49  123
+CONECT   45   37   51   52   59
+CONECT   46   39   40   53   67
+CONECT   47   38   42   52   53
+CONECT   48   14   37   41   54
+CONECT   49   44   64
+CONECT   50   12   43
+CONECT   51   45  116
+CONECT   52   45   47
+CONECT   53   46   47
+CONECT   54   43   48
+CONECT   55   63   66
+CONECT   56   62   65
+CONECT   57   64   66
+CONECT   58   64  133
+CONECT   59   45   61
+CONECT   60   26   65
+CONECT   61   59   68   72  130
+CONECT   62   24   56   70  141
+CONECT   63   41   55   69   70
+CONECT   64   49   57   58   71
+CONECT   65   56   60   67   71
+CONECT   66   32   55   57   72
+CONECT   67   46   65
+CONECT   68   30   61
+CONECT   69   63  134
+CONECT   70   62   63
+CONECT   71   64   65
+CONECT   72   61   66
+CONECT   73   81   84
+CONECT   74   80  100
+CONECT   75   79   82
+CONECT   76    7   82
+CONECT   77   79   99
+CONECT   78   83  116
+CONECT   79   75   77   86   90
+CONECT   80   15   74   88  114
+CONECT   81   73   87   95  108
+CONECT   82   75   76   89  103
+CONECT   83   78   85   89   93
+CONECT   84    4   73   90  122
+CONECT   85   83  100
+CONECT   86   79  120
+CONECT   87    8   81
+CONECT   88   80  102
+CONECT   89   82   83
+CONECT   90   79   84
+CONECT   91   99  102
+CONECT   92   98  101
+CONECT   93   83   97
+CONECT   94   25  100
+CONECT   95   81  102
+CONECT   96  101  134
+CONECT   97   22   93  104  108
+CONECT   98   33   92  103  132
+CONECT   99   77   91  105  106
+CONECT  100   74   85   94  107
+CONECT  101   92   96  106  107
+CONECT  102   88   91   95  140
+CONECT  103   82   98
+CONECT  104   97  138
+CONECT  105   26   99
+CONECT  106   99  101
+CONECT  107  100  101
+CONECT  108   81   97
+CONECT  109  117  120
+CONECT  110  117  119
+CONECT  111  115  118
+CONECT  112   43  118
+CONECT  113  120  135
+CONECT  114   80  119
+CONECT  115   40  111  122  126
+CONECT  116   51   78  124  131
+CONECT  117  109  110  123  124
+CONECT  118  111  112  125  139
+CONECT  119  110  114  121  125
+CONECT  120   86  109  113  126
+CONECT  121  119  133
+CONECT  122   84  115
+CONECT  123   44  117
+CONECT  124  116  117
+CONECT  125  118  119
+CONECT  126  115  120
+CONECT  127  135  138
+CONECT  128  134  137
+CONECT  129  133  136
+CONECT  130   61  136
+CONECT  131  116  138
+CONECT  132   98  137
+CONECT  133   58  121  129  140
+CONECT  134   69   96  128  142
+CONECT  135  113  127  141  142
+CONECT  136  129  130  143  144
+CONECT  137  128  132  139  143
+CONECT  138  104  127  131  144
+CONECT  139  118  137
+CONECT  140  102  133
+CONECT  141   62  135
+CONECT  142  134  135
+CONECT  143  136  137
+CONECT  144  136  138

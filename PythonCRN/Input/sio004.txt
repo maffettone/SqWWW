@@ -1,0 +1,21 @@
+WWW
+out_dir /Users/alggroup/People/PMM/SquareCRN/sio004/
+total_moves 5.0
+kT 10.0
+minT 0.05
+smallest_ring 6
+exit WWW
+
+internal
+total_moves 5.0
+kT 0.5
+minT 0.05
+max_move 1.0
+min_move 0.1
+k_12 27.0
+k3_O 2.00
+k3_Si 4.32
+r_SiO 1.61
+theta_O 180.0
+theta_Si 109.471
+exit internal

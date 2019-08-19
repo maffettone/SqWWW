@@ -1,0 +1,27 @@
+struct /Users/alggroup/Documents/SqWWW/cds_small.cif
+outdir /Users/alggroup/Documents/SqWWW/Outputs/cds006/
+nAtoms 6
+Nx 4
+Ny 4
+Nz 2
+max_dist 1.55
+in_moves 2.3
+in_T0 -1.1896
+in_Tf -6.
+max_move 0.1
+out_moves 1.9823
+out_T0 2.0
+out_Tf -0.3
+thermostat adaptive
+accept_bounds 1.0 2.0
+T_decay 0.75
+T_boost 1.33333
+T_interval 500
+rbond 1.6
+kbond 30.0
+kanglelink 1.0
+kanglenode 2.95
+anglelink 144.0
+rspheres 1.8
+kspheres 208.5
+rflex off

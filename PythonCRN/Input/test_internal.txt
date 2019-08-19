@@ -1,0 +1,22 @@
+WWW
+out_dir /Users/alggroup/Documents/Development/SquareCRN/test_internal/
+total_moves 1.0
+kT 0.56
+minT 0.05
+smallest_ring 3
+exit WWW
+
+internal
+total_moves 5.5
+kT 1.5
+minT 0.000005
+max_move 0.1
+min_move 0.0
+k_12 27.0
+k3_O 2.00
+k3_Si 4.32
+r_SiO 1.544
+theta_O 180.0
+theta_Si 109.471
+output /Users/alggroup/Documents/Development/SquareCRN/test_internal/test
+exit internal

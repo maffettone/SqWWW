@@ -1,0 +1,62 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.h5
+*.json
+*_history
+*_metrics
+
+# OS generated files #
+######################
+*.DS_Store
+*.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.ipynb_checkpoints
+*.project
+.pydevproject
+*.pyc
+*.cproject
+*.fproject
+
+
+#Directories to ignore #
+#######################
+test_data/
+Debug/
+Release/
+legacy/
+*.pdf
+.settings/
+/*.cif
+/*.cmdf
+*.csv
+/fort.1969450820
